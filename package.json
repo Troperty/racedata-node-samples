@@ -1,0 +1,15 @@
+{
+  "name": "racedata-node-samples",
+  "version": "1.0.0",
+  "description": "Node.js samples for Race Data API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Svensk Travsport",
+  "license": "ISC",
+  "dependencies": {
+    "stompjs": "^2.3.3",
+    "ws": "^7.4.0"
+  }
+}
