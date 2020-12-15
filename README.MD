@@ -13,8 +13,8 @@ Node.js samples for accessing race data from Svensk Travsport and Svensk Galopp 
 docker run -d -p 8080:8080 troperty/customerapi-broker-simulator
 
 # Clone code from git
-git clone git@github.com:troperty/racedata-api-node-samples.git
-cd racedata-api-node-samples
+git clone git@github.com:troperty/racedata-node-samples.git
+cd racedata-node-samples
 
 # Install dependencies
 npm install
