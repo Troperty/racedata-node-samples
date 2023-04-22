@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "stompjs": "^2.3.3",
-    "ws": "^7.4.0"
+    "ws": "^7.4.6"
   }
 }
